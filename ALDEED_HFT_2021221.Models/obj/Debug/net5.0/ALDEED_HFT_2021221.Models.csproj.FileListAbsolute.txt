@@ -1,0 +1,12 @@
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\bin\Debug\net5.0\ALDEED_HFT_2021221.Models.deps.json
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\bin\Debug\net5.0\ALDEED_HFT_2021221.Models.dll
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\bin\Debug\net5.0\ref\ALDEED_HFT_2021221.Models.dll
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\bin\Debug\net5.0\ALDEED_HFT_2021221.Models.pdb
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.dll
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ref\ALDEED_HFT_2021221.Models.dll
+C:\Users\Thomas\source\repos\ALDEED_HFT_2021221\ALDEED_HFT_2021221.Models\obj\Debug\net5.0\ALDEED_HFT_2021221.Models.pdb
